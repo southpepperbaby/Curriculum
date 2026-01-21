@@ -1,0 +1,242 @@
+[
+    {
+        "name": "Математический анализ",
+        "semester": 1,
+        "duration": 2,
+        "hours": 180,
+        "report_type": "экзамен",
+        "department": "Кафедра математики"
+    },
+    {
+        "name": "Линейная алгебра",
+        "semester": 1,
+        "duration": 2,
+        "hours": 144,
+        "report_type": "экзамен",
+        "department": "Кафедра математики"
+    },
+    {
+        "name": "Введение в программирование",
+        "semester": 1,
+        "duration": 1,
+        "hours": 108,
+        "report_type": "зачёт",
+        "department": "Кафедра информатики"
+    },
+    {
+        "name": "История России",
+        "semester": 1,
+        "duration": 1,
+        "hours": 72,
+        "report_type": "зачёт",
+        "department": "Кафедра гуманитарных наук"
+    },
+    {
+        "name": "Иностранный язык",
+        "semester": 1,
+        "duration": 4,
+        "hours": 216,
+        "report_type": "зачёт",
+        "department": "Кафедра иностранных языков"
+    },
+    {
+        "name": "Физика",
+        "semester": 1,
+        "duration": 2,
+        "hours": 144,
+        "report_type": "экзамен",
+        "department": "Кафедра физики"
+    },
+    {
+        "name": "Дискретная математика",
+        "semester": 2,
+        "duration": 2,
+        "hours": 108,
+        "report_type": "экзамен",
+        "department": "Кафедра математики"
+    },
+    {
+        "name": "Алгоритмы и структуры данных",
+        "semester": 2,
+        "duration": 2,
+        "hours": 144,
+        "report_type": "экзамен",
+        "department": "Кафедра информатики"
+    },
+    {
+        "name": "Философия",
+        "semester": 2,
+        "duration": 1,
+        "hours": 72,
+        "report_type": "зачёт",
+        "department": "Кафедра гуманитарных наук"
+    },
+    {
+        "name": "Физическая культура",
+        "semester": 1,
+        "duration": 6,
+        "hours": 36,
+        "report_type": "зачёт",
+        "department": "Кафедра физкультуры"
+    },
+    {
+        "name": "Теория вероятностей",
+        "semester": 3,
+        "duration": 1,
+        "hours": 108,
+        "report_type": "экзамен",
+        "department": "Кафедра математики"
+    },
+    {
+        "name": "Базы данных",
+        "semester": 3,
+        "duration": 2,
+        "hours": 144,
+        "report_type": "экзамен",
+        "department": "Кафедра информатики"
+    },
+    {
+        "name": "Операционные системы",
+        "semester": 3,
+        "duration": 1,
+        "hours": 108,
+        "report_type": "зачёт",
+        "department": "Кафедра информатики"
+    },
+    {
+        "name": "Компьютерные сети",
+        "semester": 4,
+        "duration": 1,
+        "hours": 72,
+        "report_type": "зачёт",
+        "department": "Кафедра информатики"
+    },
+    {
+        "name": "Математическая статистика",
+        "semester": 4,
+        "duration": 1,
+        "hours": 108,
+        "report_type": "экзамен",
+        "department": "Кафедра математики"
+    },
+    {
+        "name": "Объектно-ориентированное программирование",
+        "semester": 3,
+        "duration": 1,
+        "hours": 144,
+        "report_type": "экзамен",
+        "department": "Кафедра информатики"
+    },
+    {
+        "name": "Экономика",
+        "semester": 4,
+        "duration": 1,
+        "hours": 72,
+        "report_type": "зачёт",
+        "department": "Кафедра гуманитарных наук"
+    },
+    {
+        "name": "Правоведение",
+        "semester": 5,
+        "duration": 1,
+        "hours": 36,
+        "report_type": "зачёт",
+        "department": "Кафедра гуманитарных наук"
+    },
+    {
+        "name": "Машинное обучение",
+        "semester": 5,
+        "duration": 2,
+        "hours": 180,
+        "report_type": "экзамен",
+        "department": "Кафедра информатики"
+    },
+    {
+        "name": "Методы оптимизации",
+        "semester": 5,
+        "duration": 1,
+        "hours": 108,
+        "report_type": "экзамен",
+        "department": "Кафедра математики"
+    },
+    {
+        "name": "Разработка веб-приложений",
+        "semester": 5,
+        "duration": 1,
+        "hours": 144,
+        "report_type": "зачёт",
+        "department": "Кафедра информатики"
+    },
+    {
+        "name": "Информационная безопасность",
+        "semester": 6,
+        "duration": 1,
+        "hours": 108,
+        "report_type": "экзамен",
+        "department": "Кафедра информатики"
+    },
+    {
+        "name": "Численные методы",
+        "semester": 4,
+        "duration": 1,
+        "hours": 108,
+        "report_type": "зачёт",
+        "department": "Кафедра математики"
+    },
+    {
+        "name": "Параллельное программирование",
+        "semester": 6,
+        "duration": 1,
+        "hours": 72,
+        "report_type": "зачёт",
+        "department": "Кафедра информатики"
+    },
+    {
+        "name": "Проектирование информационных систем",
+        "semester": 7,
+        "duration": 2,
+        "hours": 180,
+        "report_type": "экзамен",
+        "department": "Кафедра информатики"
+    },
+    {
+        "name": "Управление проектами",
+        "semester": 7,
+        "duration": 1,
+        "hours": 72,
+        "report_type": "зачёт",
+        "department": "Кафедра гуманитарных наук"
+    },
+    {
+        "name": "Функциональный анализ",
+        "semester": 5,
+        "duration": 1,
+        "hours": 72,
+        "report_type": "экзамен",
+        "department": "Кафедра математики"
+    },
+    {
+        "name": "Компьютерная графика",
+        "semester": 6,
+        "duration": 1,
+        "hours": 108,
+        "report_type": "зачёт",
+        "department": "Кафедра информатики"
+    },
+    {
+        "name": "Тестирование программного обеспечения",
+        "semester": 6,
+        "duration": 1,
+        "hours": 72,
+        "report_type": "зачёт",
+        "department": "Кафедра информатики"
+    },
+    {
+        "name": "Выпускная квалификационная работа",
+        "semester": 8,
+        "duration": 1,
+        "hours": 216,
+        "report_type": "экзамен",
+        "department": "Кафедра информатики"
+    }
+]
